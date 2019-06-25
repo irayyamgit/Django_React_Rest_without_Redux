@@ -1,0 +1,22 @@
+{
+  "python.pythonPath": "C:\\Python36\\python.exe",
+  // "editor.formatOnSave": true,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "files.autoSave": "",
+  "breadcrumbs.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Ayu Mirage Mod",
+
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint_django",
+    "--errors-only"
+  ]
+  //  "files.autoSave": "onWindowChange"
+  // "python.linting.pep8Enabled": true,
+  // "python.linting.pylintpath": "pylint",
+  // "python.linting.pep8Args": ["--ingnore=E501"],
+}
